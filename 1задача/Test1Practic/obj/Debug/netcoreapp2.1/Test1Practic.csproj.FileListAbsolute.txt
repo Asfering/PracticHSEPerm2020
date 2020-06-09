@@ -1,0 +1,11 @@
+C:\Users\Роман\source\repos\Test1Practic\Test1Practic\bin\Debug\netcoreapp2.1\Test1Practic.deps.json
+C:\Users\Роман\source\repos\Test1Practic\Test1Practic\bin\Debug\netcoreapp2.1\Test1Practic.runtimeconfig.json
+C:\Users\Роман\source\repos\Test1Practic\Test1Practic\bin\Debug\netcoreapp2.1\Test1Practic.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Test1Practic\Test1Practic\bin\Debug\netcoreapp2.1\Test1Practic.dll
+C:\Users\Роман\source\repos\Test1Practic\Test1Practic\bin\Debug\netcoreapp2.1\Test1Practic.pdb
+C:\Users\Роман\source\repos\Test1Practic\Test1Practic\obj\Debug\netcoreapp2.1\Test1Practic.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Test1Practic\Test1Practic\obj\Debug\netcoreapp2.1\Test1Practic.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Test1Practic\Test1Practic\obj\Debug\netcoreapp2.1\Test1Practic.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Test1Practic\Test1Practic\obj\Debug\netcoreapp2.1\Test1Practic.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Test1Practic\Test1Practic\obj\Debug\netcoreapp2.1\Test1Practic.dll
+C:\Users\Роман\source\repos\Test1Practic\Test1Practic\obj\Debug\netcoreapp2.1\Test1Practic.pdb

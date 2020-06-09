@@ -1,0 +1,22 @@
+C:\Users\Роман\source\repos\Praktika1KURSZada4a4 - 583\Praktika1KURSZada4a4 - 583\bin\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.deps.json
+C:\Users\Роман\source\repos\Praktika1KURSZada4a4 - 583\Praktika1KURSZada4a4 - 583\bin\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.runtimeconfig.json
+C:\Users\Роман\source\repos\Praktika1KURSZada4a4 - 583\Praktika1KURSZada4a4 - 583\bin\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.runtimeconfig.dev.json
+C:\Users\Роман\source\repos\Praktika1KURSZada4a4 - 583\Praktika1KURSZada4a4 - 583\bin\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.dll
+C:\Users\Роман\source\repos\Praktika1KURSZada4a4 - 583\Praktika1KURSZada4a4 - 583\bin\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.pdb
+C:\Users\Роман\source\repos\Praktika1KURSZada4a4 - 583\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Praktika1KURSZada4a4 - 583\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Praktika1KURSZada4a4 - 583\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.AssemblyInfoInputs.cache
+C:\Users\Роман\source\repos\Praktika1KURSZada4a4 - 583\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.AssemblyInfo.cs
+C:\Users\Роман\source\repos\Praktika1KURSZada4a4 - 583\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.dll
+C:\Users\Роман\source\repos\Praktika1KURSZada4a4 - 583\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.pdb
+C:\Users\Роман\Desktop\practic\4 задача\Praktika1KURSZada4a4 - 583\bin\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.deps.json
+C:\Users\Роман\Desktop\practic\4 задача\Praktika1KURSZada4a4 - 583\bin\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.runtimeconfig.json
+C:\Users\Роман\Desktop\practic\4 задача\Praktika1KURSZada4a4 - 583\bin\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.runtimeconfig.dev.json
+C:\Users\Роман\Desktop\practic\4 задача\Praktika1KURSZada4a4 - 583\bin\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.dll
+C:\Users\Роман\Desktop\practic\4 задача\Praktika1KURSZada4a4 - 583\bin\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.pdb
+C:\Users\Роман\Desktop\practic\4 задача\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\practic\4 задача\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\practic\4 задача\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\practic\4 задача\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.AssemblyInfo.cs
+C:\Users\Роман\Desktop\practic\4 задача\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.dll
+C:\Users\Роман\Desktop\practic\4 задача\Praktika1KURSZada4a4 - 583\obj\Debug\netcoreapp2.1\Praktika1KURSZada4a4 - 583.pdb

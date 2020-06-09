@@ -1,0 +1,14 @@
+C:\Users\Роман\source\repos\Praktika1KURSZada4a10-15\Praktika1KURSZada4a10-15\bin\Debug\Praktika1KURSZada4a10-15.exe.config
+C:\Users\Роман\source\repos\Praktika1KURSZada4a10-15\Praktika1KURSZada4a10-15\bin\Debug\Praktika1KURSZada4a10-15.exe
+C:\Users\Роман\source\repos\Praktika1KURSZada4a10-15\Praktika1KURSZada4a10-15\bin\Debug\Praktika1KURSZada4a10-15.pdb
+C:\Users\Роман\source\repos\Praktika1KURSZada4a10-15\Praktika1KURSZada4a10-15\obj\Debug\Praktika1KURSZada4a10-15.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Praktika1KURSZada4a10-15\Praktika1KURSZada4a10-15\obj\Debug\Praktika1KURSZada4a10-15.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Praktika1KURSZada4a10-15\Praktika1KURSZada4a10-15\obj\Debug\Praktika1KURSZada4a10-15.exe
+C:\Users\Роман\source\repos\Praktika1KURSZada4a10-15\Praktika1KURSZada4a10-15\obj\Debug\Praktika1KURSZada4a10-15.pdb
+C:\Users\Роман\Desktop\practic\10  задача\Praktika1KURSZada4a10-15\bin\Debug\Praktika1KURSZada4a10-15.exe.config
+C:\Users\Роман\Desktop\practic\10  задача\Praktika1KURSZada4a10-15\bin\Debug\Praktika1KURSZada4a10-15.exe
+C:\Users\Роман\Desktop\practic\10  задача\Praktika1KURSZada4a10-15\bin\Debug\Praktika1KURSZada4a10-15.pdb
+C:\Users\Роман\Desktop\practic\10  задача\Praktika1KURSZada4a10-15\obj\Debug\Praktika1KURSZada4a10-15.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\practic\10  задача\Praktika1KURSZada4a10-15\obj\Debug\Praktika1KURSZada4a10-15.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\practic\10  задача\Praktika1KURSZada4a10-15\obj\Debug\Praktika1KURSZada4a10-15.exe
+C:\Users\Роман\Desktop\practic\10  задача\Praktika1KURSZada4a10-15\obj\Debug\Praktika1KURSZada4a10-15.pdb

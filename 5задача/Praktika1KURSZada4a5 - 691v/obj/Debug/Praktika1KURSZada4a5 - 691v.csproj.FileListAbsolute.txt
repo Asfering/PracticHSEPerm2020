@@ -1,0 +1,7 @@
+C:\Users\Роман\source\repos\Praktika1KURSZada4a5 - 691v\Praktika1KURSZada4a5 - 691v\bin\Debug\Praktika1KURSZada4a5 - 691v.exe.config
+C:\Users\Роман\source\repos\Praktika1KURSZada4a5 - 691v\Praktika1KURSZada4a5 - 691v\bin\Debug\Praktika1KURSZada4a5 - 691v.exe
+C:\Users\Роман\source\repos\Praktika1KURSZada4a5 - 691v\Praktika1KURSZada4a5 - 691v\bin\Debug\Praktika1KURSZada4a5 - 691v.pdb
+C:\Users\Роман\source\repos\Praktika1KURSZada4a5 - 691v\Praktika1KURSZada4a5 - 691v\obj\Debug\Praktika1KURSZada4a5 - 691v.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Praktika1KURSZada4a5 - 691v\Praktika1KURSZada4a5 - 691v\obj\Debug\Praktika1KURSZada4a5 - 691v.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Praktika1KURSZada4a5 - 691v\Praktika1KURSZada4a5 - 691v\obj\Debug\Praktika1KURSZada4a5 - 691v.exe
+C:\Users\Роман\source\repos\Praktika1KURSZada4a5 - 691v\Praktika1KURSZada4a5 - 691v\obj\Debug\Praktika1KURSZada4a5 - 691v.pdb
